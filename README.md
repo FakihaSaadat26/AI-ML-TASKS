@@ -1,5 +1,4 @@
 # AI-ML-TASKS
-# AI/ML Internship Tasks Repository
 
 This repository contains all the AI/ML-related tasks and projects completed during my internship.
 
